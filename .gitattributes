@@ -1,2 +1,8 @@
-*.sql linguist-language=SQL
-*.mwb linguist-language=SQL
+Assignment1-ER-Diagram/*.sql linguist-language=SQL
+Assignment1-ER-Diagram/*.mwb linguist-language=SQL
+
+Assignment2-SQL-Queries/*.sql linguist-language=SQL
+Assignment2-SQL-Queries/*.mwb linguist-language=SQL
+
+Assignment3-Interface-App/*.sql linguist-language=SQL
+Assignment3-Interface-App/*.mwb linguist-language=SQL
