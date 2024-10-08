@@ -1,8 +1,19 @@
+*.sql linguist-detectable=true
+*.sql text
+*.sql linguist-language=SQL
+*.mwb linguist-language=SQL
+
+Assignment1-ER-Diagram/*.sql linguist-detectable=true
+Assignment1-ER-Diagram/*.sql text
 Assignment1-ER-Diagram/*.sql linguist-language=SQL
 Assignment1-ER-Diagram/*.mwb linguist-language=SQL
 
+Assignment2-SQL-Queries/*.sql linguist-detectable=true
+Assignment2-SQL-Queries/*.sql text
 Assignment2-SQL-Queries/*.sql linguist-language=SQL
 Assignment2-SQL-Queries/*.mwb linguist-language=SQL
 
+Assignment3-Interface-App/*.sql linguist-detectable=true
+Assignment3-Interface-App/*.sql text
 Assignment3-Interface-App/*.sql linguist-language=SQL
 Assignment3-Interface-App/*.mwb linguist-language=SQL
