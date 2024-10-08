@@ -17,3 +17,6 @@ Assignment3-Interface-App/*.sql linguist-detectable=true
 Assignment3-Interface-App/*.sql text
 Assignment3-Interface-App/*.sql linguist-language=SQL
 Assignment3-Interface-App/*.mwb linguist-language=SQL
+
+Assignment3-Interface-App/application/__pycache__/*.py linguist-vendored
+Assignment3-Interface-App/application/lib/*.py linguist-vendored
